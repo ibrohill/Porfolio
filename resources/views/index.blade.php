@@ -1,4 +1,4 @@
-@extends('layouts.app') {{-- Si vous utilisez un layout --}}
+@extends('layouts.app')
 
 @section('content')
     <main class="main">
